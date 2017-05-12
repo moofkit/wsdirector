@@ -35,6 +35,7 @@ spec/dummy/tmp/
 Gemfile.lock
 Gemfile.local
 .rspec
+.rspec_status
 *.gem
 tmp/
 coverage/
